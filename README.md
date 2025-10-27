@@ -20,3 +20,11 @@
     * Sentiment Analysis (from reviews or social mentions)
    
     * Geo-view Map (where content is most watched)
+  
+6. Dashboard Previews
+   <img width="1166" height="654" alt="Netflix OTT Dashboard" src="https://github.com/user-attachments/assets/83b6daa9-5396-45e8-9085-1df6dddd62fa" />
+   <img width="1158" height="646" alt="Amazon OTT Dashboard" src="https://github.com/user-attachments/assets/3645e9a1-437f-4b31-95cd-384554a04609" />
+   <img width="1166" height="650" alt="Hotstar OTT Dashboard" src="https://github.com/user-attachments/assets/d697a358-c2db-45e5-9134-fbe429404ad6" />
+
+
+
