@@ -17,5 +17,6 @@
    
 5. Features / Highlights:
 
-    Sentiment Analysis (from reviews or social mentions)
-    Geo-view Map (where content is most watched)
+    * Sentiment Analysis (from reviews or social mentions)
+   
+    * Geo-view Map (where content is most watched)
